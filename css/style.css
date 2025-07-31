@@ -5,6 +5,9 @@
 }
 
 body {
+  display: flex;
+	justify-content: center;
+	align-items: center;
   margin: 30px;
   background-color: #8d90d0;
   font-family: "Montserrat", sans-serif;
